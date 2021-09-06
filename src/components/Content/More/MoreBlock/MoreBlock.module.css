@@ -1,0 +1,111 @@
+.main {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imgBlock {
+    padding: 19px;
+    background-color: #fff;
+    border-radius: 79px;
+    display: flex;
+}
+
+.imgContainer {
+    position: relative;
+    transition: all 0.2s ease-in;
+}
+
+.imgContainer:hover {
+    opacity: 0.7;
+    transform:rotate(15deg);
+}
+
+.nav + .nav {
+    margin-left: 12px;
+}
+
+
+
+.image {
+    width: 120px;
+    height: 120px;
+    pointer-events: none;
+    user-select: none;
+}
+
+.percent {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 50%;
+    color: #fff;
+    position: absolute;
+    top: -10px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.titleBlock  {
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #000000;
+    position: relative;
+}
+
+.titleBlock::before, .titleBlock::after {
+    position: absolute;
+    content: "";
+    background: #ffffff;
+    width: 30px;
+    height: 30px;
+}
+
+.titleBlock::before {
+    top: 0px;
+    left: -30px;
+}
+
+.titleBlock::after {
+    top: 0px;
+    right: -30px;
+}
+
+
+.titleBlock2 {
+    position: relative;
+}
+
+.titleBlock2::before, .titleBlock2::after {
+    position: absolute;
+    content: "";
+    background: #f0f0f0;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    z-index: +1;
+}
+
+.titleBlock2::before {
+    top: 0px;
+    left: -60px;
+}
+
+.titleBlock2::after {
+    top: 0px;
+    right: -60px;
+}

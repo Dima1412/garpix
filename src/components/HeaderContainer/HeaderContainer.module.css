@@ -1,0 +1,106 @@
+.headerMain {
+    width: auto;
+    height: auto;
+    background-color: #ffffff;
+}
+
+.headerContainer {
+    min-height: 116px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.img {
+    pointer-events: none;
+    user-select: none;
+}
+
+.navbar {
+    max-width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nbItem {
+    margin: 7px 10px;
+}
+
+.nbItem a {
+    font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 40px;
+color: #000000;
+opacity: 0.5;
+text-decoration: none;
+}
+
+.nbItem a.active {  
+    opacity: 1;
+    color: #00d36d;
+}
+
+.location {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    transition: opacity 0.2s ease-in;
+}
+
+.location img {
+    opacity: 0.5;
+}
+
+.location:hover {
+    opacity: 0.5;
+}
+
+.city {
+    margin-left: 5px;
+    font-style: normal;
+font-weight: normal;
+font-size: 17px;
+text-align: center;
+line-height: 32px;
+color: #000000;
+opacity: 0.5;
+}
+
+.searchLogin {
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    float: right;
+}
+
+.search {
+    cursor: pointer;
+}
+
+.search img:hover {
+    opacity:0.5;
+}
+
+.loginBlock button {
+    cursor: pointer;
+    margin-left: 20px;
+    height: 36px;
+    width: 90px;  
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 23px;
+    color: #00D36D;  
+    background-color: #ffffff;
+    border: 1px solid #00D36D;
+    box-sizing: border-box;
+    border-radius: 8px;
+    transition: all 0.2s ease-in;
+}
+
+.loginBlock button:hover {
+    color: #ffffff;  
+    background-color: #00D36D;
+    border: none;
+}

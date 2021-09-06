@@ -1,0 +1,121 @@
+.footerMain {
+    width: auto;
+    height: auto;
+    background-color: #ffffff;
+}
+
+.footerContainer {
+    min-height: 300px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;   
+}
+
+.footerContainer h2 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    color: #000000;
+}
+
+.comment {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000000;
+    opacity: 0.5;
+}
+
+.comment2 {
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000000;
+    opacity: 0.5;
+}
+
+.sberLogo {
+    margin-top: 55px;
+    user-select: none;
+    pointer-events: none;
+}
+
+.footerRight {
+    max-width: 800px;
+}
+
+.footerNav {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.nbItem {
+    margin: 7px 10px;
+
+}
+
+.nbItem a {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 40px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.nbItem a.active {  
+    color: #00d36d;
+}
+
+
+
+.text {
+    margin-top: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000000;
+    opacity: 0.5;
+}
+
+.links {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.stores {
+    cursor: pointer;
+    display: flex;
+}
+
+.stores img {
+    margin: 0 5px;
+    user-select: none;
+    pointer-events: none;
+}
+
+.social {
+    cursor: pointer;
+    display: flex;
+}
+
+.social div {
+    transition: all 0.2s ease-in;
+}
+
+.social div:hover {
+    transform: translate3d(0, -2px, 0);
+}
+
+.social img {
+    user-select: none;
+    pointer-events: none;
+    border-radius: 10px;
+    margin: 0 5px;
+}

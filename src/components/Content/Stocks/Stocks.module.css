@@ -1,0 +1,39 @@
+.stocks {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.stocksField {
+    max-width: 1200px;
+    padding-top: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.moreBtn button {
+    cursor: pointer;
+    margin-top: 40px;
+    width: 184px;
+    height: 48px;
+    border-radius: 8px;
+    border: none;
+    background-color: #00d36d;
+    color: #fff;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 23px;
+    transition: background-color 0.2s ease-in;
+}
+
+.moreBtn button:hover {
+    background-color: #00c264;
+}
+
+

@@ -1,0 +1,91 @@
+.card {
+    width: 376px;
+    height: 200px;
+    border: 1px dashed #000000;
+    border-radius: 8px;
+    box-sizing: border-box;
+    transition: border 0.2s ease-in;
+    position: relative;
+}
+
+.card:hover {
+    border: 1px solid #00d36d;
+}
+
+.ellipse {
+    height: 43.5px;
+    width: 30px;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    user-select: none;
+    pointer-events: none;
+}
+
+.apple {
+    height: 26px;
+    width: 26px;
+    position: absolute;
+    top: 17px;
+    left: 17px;
+    z-index: +1;
+    user-select: none;
+    pointer-events: none;
+}
+
+.description {
+    margin-left: 60px;
+    margin-top: 17px;
+}
+
+.description div {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;
+    user-select: none;
+    pointer-events: none;
+}
+
+.description a {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 150%;
+    color: #00d36d;
+    text-decoration: none;
+    border-bottom: 1px solid #9ae2be;
+}
+
+.description a:hover {
+    color: #00ac59;
+}
+
+.metro {
+    display: flex;
+}
+
+.metro div {
+    margin-left: 5px;
+    margin-right: 15px;
+}
+
+.way {
+    position: absolute;
+    right: 15px;
+    bottom: 15px;
+}
+
+.way a {
+    font-style: normal;
+font-weight: normal;
+color: #9c9b9b;
+font-size: 12px;
+line-height: 150%;
+text-decoration: none;
+border-bottom: 1px solid #c2c0c0;
+}
+
+.way a:hover {
+    color: #646464;
+}

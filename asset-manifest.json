@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/garpix/static/css/main.be83ce16.chunk.css",
-    "main.js": "/garpix/static/js/main.01821226.chunk.js",
-    "main.js.map": "/garpix/static/js/main.01821226.chunk.js.map",
+    "main.css": "/garpix/static/css/main.7bb1db60.chunk.css",
+    "main.js": "/garpix/static/js/main.7d916bff.chunk.js",
+    "main.js.map": "/garpix/static/js/main.7d916bff.chunk.js.map",
     "runtime-main.js": "/garpix/static/js/runtime-main.9d48aa4b.js",
     "runtime-main.js.map": "/garpix/static/js/runtime-main.9d48aa4b.js.map",
     "static/js/2.2e9128f4.chunk.js": "/garpix/static/js/2.2e9128f4.chunk.js",
     "static/js/2.2e9128f4.chunk.js.map": "/garpix/static/js/2.2e9128f4.chunk.js.map",
     "index.html": "/garpix/index.html",
-    "static/css/main.be83ce16.chunk.css.map": "/garpix/static/css/main.be83ce16.chunk.css.map",
+    "static/css/main.7bb1db60.chunk.css.map": "/garpix/static/css/main.7bb1db60.chunk.css.map",
     "static/js/2.2e9128f4.chunk.js.LICENSE.txt": "/garpix/static/js/2.2e9128f4.chunk.js.LICENSE.txt",
     "static/media/Triangle-2.80ab523d.svg": "/garpix/static/media/Triangle-2.80ab523d.svg",
+    "static/media/actionx.2d73e3ab.png": "/garpix/static/media/actionx.2d73e3ab.png",
     "static/media/app-store.3d9aa83f.svg": "/garpix/static/media/app-store.3d9aa83f.svg",
     "static/media/fb.dff19c72.svg": "/garpix/static/media/fb.dff19c72.svg",
     "static/media/google-play.6fc4e6aa.svg": "/garpix/static/media/google-play.6fc4e6aa.svg",
@@ -19,9 +20,7 @@
     "static/media/logo_x21.98efc388.svg": "/garpix/static/media/logo_x21.98efc388.svg",
     "static/media/metro.2c427c59.svg": "/garpix/static/media/metro.2c427c59.svg",
     "static/media/metro2.5801a34b.svg": "/garpix/static/media/metro2.5801a34b.svg",
-    "static/media/note.8005e156.png": "/garpix/static/media/note.8005e156.png",
     "static/media/ok.4685cdbe.svg": "/garpix/static/media/ok.4685cdbe.svg",
-    "static/media/rectangle.1246c714.png": "/garpix/static/media/rectangle.1246c714.png",
     "static/media/sberlogo.2caa0946.svg": "/garpix/static/media/sberlogo.2caa0946.svg",
     "static/media/search.5bc033a3.svg": "/garpix/static/media/search.5bc033a3.svg",
     "static/media/vk.cc884e0e.svg": "/garpix/static/media/vk.cc884e0e.svg"
@@ -29,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.9d48aa4b.js",
     "static/js/2.2e9128f4.chunk.js",
-    "static/css/main.be83ce16.chunk.css",
-    "static/js/main.01821226.chunk.js"
+    "static/css/main.7bb1db60.chunk.css",
+    "static/js/main.7d916bff.chunk.js"
   ]
 }

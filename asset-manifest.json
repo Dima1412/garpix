@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/garpix/static/css/main.b9b2d2f3.chunk.css",
+    "main.css": "/garpix/static/css/main.15c6dc9a.chunk.css",
     "main.js": "/garpix/static/js/main.2acdb550.chunk.js",
     "main.js.map": "/garpix/static/js/main.2acdb550.chunk.js.map",
     "runtime-main.js": "/garpix/static/js/runtime-main.9d48aa4b.js",
@@ -8,7 +8,7 @@
     "static/js/2.2e9128f4.chunk.js": "/garpix/static/js/2.2e9128f4.chunk.js",
     "static/js/2.2e9128f4.chunk.js.map": "/garpix/static/js/2.2e9128f4.chunk.js.map",
     "index.html": "/garpix/index.html",
-    "static/css/main.b9b2d2f3.chunk.css.map": "/garpix/static/css/main.b9b2d2f3.chunk.css.map",
+    "static/css/main.15c6dc9a.chunk.css.map": "/garpix/static/css/main.15c6dc9a.chunk.css.map",
     "static/js/2.2e9128f4.chunk.js.LICENSE.txt": "/garpix/static/js/2.2e9128f4.chunk.js.LICENSE.txt",
     "static/media/Triangle-2.80ab523d.svg": "/garpix/static/media/Triangle-2.80ab523d.svg",
     "static/media/actionx.2d73e3ab.png": "/garpix/static/media/actionx.2d73e3ab.png",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.9d48aa4b.js",
     "static/js/2.2e9128f4.chunk.js",
-    "static/css/main.b9b2d2f3.chunk.css",
+    "static/css/main.15c6dc9a.chunk.css",
     "static/js/main.2acdb550.chunk.js"
   ]
 }

@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/garpix/static/css/main.f70c7346.chunk.css",
-    "main.js": "/garpix/static/js/main.9bcd5f23.chunk.js",
-    "main.js.map": "/garpix/static/js/main.9bcd5f23.chunk.js.map",
+    "main.css": "/garpix/static/css/main.be83ce16.chunk.css",
+    "main.js": "/garpix/static/js/main.01821226.chunk.js",
+    "main.js.map": "/garpix/static/js/main.01821226.chunk.js.map",
     "runtime-main.js": "/garpix/static/js/runtime-main.9d48aa4b.js",
     "runtime-main.js.map": "/garpix/static/js/runtime-main.9d48aa4b.js.map",
     "static/js/2.2e9128f4.chunk.js": "/garpix/static/js/2.2e9128f4.chunk.js",
     "static/js/2.2e9128f4.chunk.js.map": "/garpix/static/js/2.2e9128f4.chunk.js.map",
     "index.html": "/garpix/index.html",
-    "static/css/main.f70c7346.chunk.css.map": "/garpix/static/css/main.f70c7346.chunk.css.map",
+    "static/css/main.be83ce16.chunk.css.map": "/garpix/static/css/main.be83ce16.chunk.css.map",
     "static/js/2.2e9128f4.chunk.js.LICENSE.txt": "/garpix/static/js/2.2e9128f4.chunk.js.LICENSE.txt",
     "static/media/Triangle-2.80ab523d.svg": "/garpix/static/media/Triangle-2.80ab523d.svg",
     "static/media/app-store.3d9aa83f.svg": "/garpix/static/media/app-store.3d9aa83f.svg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.9d48aa4b.js",
     "static/js/2.2e9128f4.chunk.js",
-    "static/css/main.f70c7346.chunk.css",
-    "static/js/main.9bcd5f23.chunk.js"
+    "static/css/main.be83ce16.chunk.css",
+    "static/js/main.01821226.chunk.js"
   ]
 }
